@@ -1,7 +1,7 @@
 ```less
 #mau {
   header {
-    text-decoration: he/him;
+    text-decoration: he, him;
     page-orientation: frontend;
     filter: glasses(1);
     speak: german, english
